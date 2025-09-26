@@ -391,8 +391,9 @@ pyparsing==3.0.9 \
     # via
     #   -r requirements.in
     #   packaging
-pyperclip==1.8.2 \
-    --hash=sha256:105254a8b04934f0bc84e9c24eb360a591aaf6535c9def5f29d92af107a9bf57
+pyperclip==1.11.0 \
+    --hash=sha256:244035963e4428530d9e3a6101a1ef97209c6825edab1567beac148ccc1db1b6 \
+    --hash=sha256:299403e9ff44581cb9ba2ffeed69c7aa96a008622ad0c46cb575ca75b5b84273
     # via
     #   -r requirements.in
     #   gcp-releasetool
