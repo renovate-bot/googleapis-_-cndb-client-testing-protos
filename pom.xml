@@ -8,7 +8,7 @@
   <parent>
     <groupId>com.google.cloud</groupId>
     <artifactId>google-cloud-spanner-parent</artifactId>
-    <version>6.35.2</version>
+    <version>6.102.0</version>
   </parent>
   <dependencies>
     <dependency>
