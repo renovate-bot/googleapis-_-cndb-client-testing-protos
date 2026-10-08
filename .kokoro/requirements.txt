@@ -162,9 +162,9 @@ google-cloud-core==2.3.2 \
     # via
     #   -r requirements.in
     #   google-cloud-storage
-google-cloud-storage==2.7.0 \
-    --hash=sha256:1ac2d58d2d693cb1341ebc48659a3527be778d9e2d8989697a2746025928ff17 \
-    --hash=sha256:f78a63525e72dd46406b255bbdf858a22c43d6bad8dc5bdeb7851a42967e95a1
+google-cloud-storage==3.17.0 \
+    --hash=sha256:0b89283fccf84745bae75bbefdbda8393e5323471071a2ba24ab437407141171 \
+    --hash=sha256:4373aa6328e070c31c97aa236f1600a239dfd3c85e5870cdf3dc2a928dfe0bca
     # via
     #   -r requirements.in
     #   gcp-docuploader
